@@ -1,11 +1,12 @@
-Tutorial 1:
--
--
+Tutorial 1: Backpropagation and an Introduction to Tensorflow
+- We easyly can add a bias to the selfprogrammed neuron by appeding a 1 to the x-vector every time. So the last weight can be seen as a bias.
+- Adaptive momentum optimizer can improve the decrease of the model loss dramatically.
 
-Tutorial 2:
--
--
+Tutorial 2: Transfer Learning with Tensorflow for Object Classification
+- A pretrained model can be a very powerful tool because it already sensitive to many features and has processed a large number of data.
+- With transfer learning we can adapt a pretrained model to a new similar dataset to extract our wanted features. -> We avoid the cold-start!
 
-Tutorial 3:
--
--
+
+Tutorial 3: Semantic Segmentation with U Net
+- A U-Net is similar to the V-Model - first we compromise our (image)data to a high resolution feature vector and then we do the bottom-up scaling back to our original image-resolution.
+- It ispossible to first train the feature-vector and afterwards scaling the features back to out image-resolution.

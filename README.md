@@ -4,7 +4,7 @@ To start the program open and run the MovieRecommender.ipynb as JupyterNotebook
 
 # Author
 
-Manuel Rieß
+Manuel Rieß - 22.12.2022
 
 # Info for examination
 Mat.Nr.: 8197217\
