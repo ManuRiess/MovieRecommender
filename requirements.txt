@@ -1,4 +1,3 @@
-csv
 matplotlib
 numpy
 pandas
