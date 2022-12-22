@@ -1,0 +1,7 @@
+csv
+matplotlib
+numpy
+pandas
+pathlib
+tensorflow
+zipfile
