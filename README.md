@@ -2,7 +2,7 @@
  A ai-based movie recommendation system traind with MovieLens dataset
 To start the program open and run the MovieRecommender.ipynb as JupyterNotebook or use binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuRiess/MovieRecommender/main?labpath=MovieRecommender)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ManuRiess/MovieRecommender/main?labpath=MovieRecommender.ipynb)
 
 # Author
 
